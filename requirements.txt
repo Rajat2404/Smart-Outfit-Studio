@@ -126,7 +126,6 @@ MarkupSafe
 matplotlib
 matplotlib-inline
 mdurl
-mediapipe
 mistune
 ml-dtypes
 moviepy
@@ -265,3 +264,4 @@ Werkzeug
 wheel
 widgetsnbextension
 wrapt
+
