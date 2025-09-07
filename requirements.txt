@@ -185,7 +185,6 @@ python-multipart
 PythonTurtle
 pyttsx3
 pytz
-pywin32
 pywinpty
 PyYAML
 pyzmq
@@ -264,4 +263,5 @@ Werkzeug
 wheel
 widgetsnbextension
 wrapt
+
 
