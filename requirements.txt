@@ -176,7 +176,7 @@ pygame
 Pygments
 PyJWT
 pyparsing
-pypiwin32
+pypiwin32==219
 PySocks
 python-dateutil
 python-dotenv
@@ -263,5 +263,6 @@ Werkzeug
 wheel
 widgetsnbextension
 wrapt
+
 
 
